@@ -37,6 +37,3 @@ if __name__ == '__main__':
     strat.get_strategy()
     strat.get_benchmark_asset()
     strat.get_tearsheet()
-    
-
-    
